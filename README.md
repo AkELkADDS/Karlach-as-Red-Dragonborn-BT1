@@ -1,8 +1,8 @@
-Clawstep - Dragonborn female body
+Karlach as Red Dragonborn BT1
 
-[ModIO](https://mod.io/g/baldursgate3/m/dragonborn-body-replacer-dragonborn-cc#description)
-[Nexus](https://www.nexusmods.com/baldursgate3/mods/16384?tab=description)
+[ModIO](https://mod.io/g/baldursgate3/m/karlach-as-dragonborn-companion-replacer#description)
 
-DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a
+
+Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220
 
 BG3_DATA="E:/El/Games/Steam/steamapps/common/Baldurs Gate 3/Data"
