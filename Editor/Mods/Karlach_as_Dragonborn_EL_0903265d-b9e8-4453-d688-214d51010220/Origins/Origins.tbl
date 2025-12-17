@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="b923d561-af5a-47d5-b34a-f4c4fb8c4dcc">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b8b4a974-b045-45f6-9516-b457b8773abd" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="Karlach" />
+        <field name="Unique" type="BoolTableFieldDefinition" value="True" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h153e5cf8g3a27g539aga0efgac0f0e0f9712" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8027fddeg9842gee4fgd46agf5854053234e" version="1" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="SubRaceUUID" type="GuidTableFieldDefinition" value="61a2c59d-fe8d-4644-8d04-6fae2b239eaf" />
+        <field name="BackgroundUUID" type="GuidTableFieldDefinition" value="5b1e726f-52bf-4e93-a798-9f93c067ee7f" />
+        <field name="ClassUUID" type="GuidTableFieldDefinition" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399" />
+        <field name="GlobalTemplate" type="GuidTableFieldDefinition" value="2c76687d-93a2-477b-8b18-8a14b549304c" />
+        <field name="Passives" type="StringTableFieldDefinition" value="DeathSavingThrows" />
+        <field name="AvailableInCharacterCreation" type="EnumerationTableFieldDefinition" value="Available" enumeration_type_name="CharacterCreatorAvailabilityType" version="1" />
+        <field name="ReallyTags" type="GuidObjectListTableFieldDefinition" value="1a2f70d6-8ead-4eb5-a824-79ee1971764a" />
+        <field name="AppearanceLocked" type="BoolTableFieldDefinition" color="#FF4B0082" value="True" />
+        <field name="ClassEquipmentOverride" type="FixedStringTableFieldDefinition" value="EQ_Karlach" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="LockClass" type="BoolTableFieldDefinition" value="True" />
+        <field name="LockBody" type="BoolTableFieldDefinition" color="#FF4B0082" value="True" />
+        <field name="LockRace" type="BoolTableFieldDefinition" value="True" />
+        <field name="VoiceTableUUID" type="GuidTableFieldDefinition" value="d7f1f43f-840f-44ca-90f4-ba80c0f31d19" />
+        <field name="ExcludesOriginUUID" type="GuidTableFieldDefinition" value="efc9d114-0296-4a30-b701-365fc07d44fb" />
+        <field name="IntroDialogUUID" type="GuidTableFieldDefinition" value="efee0c73-4b51-f0e7-0cbd-32e12be6efdd" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

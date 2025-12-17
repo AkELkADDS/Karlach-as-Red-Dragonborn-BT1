@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="0903265d-b9e8-4453-d688-214d51010220"/>
+            <attribute id="Name" type="LSString" value="Karlach_as_Dragonborn_EL"/>
+            <attribute id="UUID" type="LSString" value="9fdadeeb-f91a-bef5-3ef0-9f36c58821e2"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

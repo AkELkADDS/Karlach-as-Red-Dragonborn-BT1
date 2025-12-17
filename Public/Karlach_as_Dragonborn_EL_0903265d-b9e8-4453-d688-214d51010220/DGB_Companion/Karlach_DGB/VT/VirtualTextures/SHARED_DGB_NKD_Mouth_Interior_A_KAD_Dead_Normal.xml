@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings source="($SOURCE)\DGB_Companion\Karlach_DGB\VT\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Normal.DDS">
+  <TextureLayerSettings>
+    <Scale>Full</Scale>
+    <QualityProfile>Default</QualityProfile>
+    <PreserveCoverage>false</PreserveCoverage>
+    <alphaCoverage>0.75</alphaCoverage>
+    <IsTiled>false</IsTiled>
+    <XPatches>0</XPatches>
+    <YPatches>0</YPatches>
+    <AllowNonPowerOfTwo>false</AllowNonPowerOfTwo>
+  </TextureLayerSettings>
+</Settings>

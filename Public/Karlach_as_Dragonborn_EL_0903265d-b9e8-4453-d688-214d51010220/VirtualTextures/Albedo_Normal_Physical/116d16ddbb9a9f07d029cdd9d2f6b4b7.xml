@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\($MOD)\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Albedo" />
+    <Layer type="Normal" source="($DATA)\Public\($MOD)\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Normal" />
+    <Layer type="Physical" source="($DATA)\Public\($MOD)\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Physical" />
+  </Layers>
+</StackedTexture>

@@ -1,0 +1,472 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+   Wed 12/17/2025 14:40:40.25 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\thumbnail.PNG 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Origins\Origins.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Globals\WLD_Main_A\Characters\_merged.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\ControllerUIIcons\items_png\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\2dd12288-c71c-7db2-925c-2f884c1727bc-EQ_Karlach_(Icon_Origin_Karlach).DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\39d59978-8a65-a8ec-6e8b-0d391f4035e3-EQ_Karlach_(Icon_Origin_Karlach).DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\ce24301b-f705-ab7d-4354-d51ab93c5ae3-EQ_Karlach_(Icon_Origin_Karlach).DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Tooltips\ItemIcons\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\AssetsLowRes\ControllerUIIcons\items_png\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\AssetsLowRes\Tooltips\ItemIcons\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 12 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_CuddleKissStrong_Karlach_DGB_EL_1.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_PassionateKissStrong_Karlach_DGB_EL_1.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_SweetKissStrong_Karlach_DGB_EL_1.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Loot\Heads\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Textures\Icons\KAD_Head_Atlas.dds 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\0585cd8b-6516-9940-2596-97a7c755bd97.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\999a8773-6bca-e107-1d64-6cee8aecc73c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\a0fb7229-eb4f-ebd0-ba54-1950831c169e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Loot\[PAK]_Heads\2892cebd-4d1f-e9f0-8261-b7a98514b9f9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Loot\[PAK]_Heads\914a3631-94f1-7546-86ee-c2699def1390.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Loot\[PAK]_Heads\bd9a3e46-2cdb-7a2b-99c2-d546135c8bc0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_CharacterVisuals\2dd12288-c71c-7db2-925c-2f884c1727bc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_CharacterVisuals\39d59978-8a65-a8ec-6e8b-0d391f4035e3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_CharacterVisuals\5757770a-12aa-a3f6-35dd-39beeaf5489d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_CharacterVisuals\7abb8ab4-2f85-8785-2762-ff11afc6f372.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_CharacterVisuals\ce24301b-f705-ab7d-4354-d51ab93c5ae3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\09d6ff3b-b895-c3d1-5aad-df90e1394d6b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\1a35eba5-38b1-f642-51f2-b32bb35ae02d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\2c03253f-8890-7135-b08a-45e0f338b86c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\39eaaf7a-2d18-4999-87f0-7f403db385ad.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\4a25e55f-351f-6b80-6875-8822bcaaf3e9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\54eeef87-2165-4077-b59b-b30bd397c02e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\78ff2509-2c7f-8079-1a4c-e1b67f964015.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\7fb1ff8e-d799-4411-4bb3-202bc8305719.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\903bf8d3-6182-3b83-d095-dcde90e83514.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\963f0ae0-6b5b-4a1b-8e00-34e2f587c73d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\a104b6c5-de69-6374-d546-c4f4f9088602.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\dcec63a1-62ff-3559-8c19-a32010d9edcf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\e45419b6-048a-bf81-a415-a602c40889e8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\eb4e83ec-c8d6-296b-1935-272e6c776fd1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\f7f58bfb-82d5-b4fb-e777-5b603b82bdca.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\Base\DGB_F_Karlach_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\Base\DGB_F_Karlach_Base.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Albedo.tif 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Albedo.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Normal.tif 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Normal.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Physical.tif 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Physical.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Undead\Assets\Heads\NeckCut\DGB_F_NKD_Head_B_NeckCut_KAD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Undead\Assets\Heads\NeckCut\DGB_F_NKD_Head_B_NeckCut_KAD.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\KAD_Head_Atlas.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Head_KRL_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Head_KRL_A2.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Head_KRL_Top_MC.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Tail_B_opener.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Origins\Origins.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\3ab0a797-0904-47cb-955d-cdc3ec32409c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\3c3bedb4-917a-4663-9a8a-d18611aaac95.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\6dbbfc31-a18f-472f-bda8-a18fdba17d02.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\784843e5-e89a-4ffb-a556-417ba2018287.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\9d668ec3-f2a2-4b28-a63c-b19b2fff6350.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A_Posed.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A_Posed.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\_PROP_ANIM\_Anims\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\_PROP_ANIM\_Anims\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\Albedo_Normal_Physical\116d16ddbb9a9f07d029cdd9d2f6b4b7.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 57 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\Base\DGB_F_Karlach_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Undead\Assets\Heads\NeckCut\DGB_F_NKD_Head_B_NeckCut_KAD.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A_Posed.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\_PROP_ANIM\_Anims\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\5246ddd3-22f7-4ede-8b9e-d4c2fae54d7e.gts 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\5246ddd3-22f7-4ede-8b9e-d4c2fae54d7e_116d16ddbb9a9f07d029cdd9d2f6b4b7.gtp 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\5246ddd3-22f7-4ede-8b9e-d4c2fae54d7e_mips.gtp 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\Albedo_Normal_Physical\116d16ddbb9a9f07d029cdd9d2f6b4b7.gtex 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 8 
+ 
+[LOG] Total files found across all folders: 80 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 to Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[DEBUG] Using destination: Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, December 17, 2025 2:40:55 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
+     Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     703	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\meta.lsx100%  
+	    New File  		  763328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\thumbnail.PNG  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   746.1 k   746.1 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            69457363 Bytes/sec.
+   Speed :            3974.382 MegaBytes/min.
+   Ended : Wednesday, December 17, 2025 2:40:55 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 to "Editor\Mods"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[DEBUG] Using destination: Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, December 17, 2025 2:40:57 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
+     Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    2965	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Origins\Origins.tbl100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         6         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :     2.8 k     2.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Wednesday, December 17, 2025 2:40:57 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 to Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[DEBUG] Using destination: Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, December 17, 2025 2:40:59 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
+     Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   14801	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\meta.lsx100%  
+	    New File  		  763328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\mod_publish_logo.png  0%  100%  
+	    New File  		    2106	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\metadata.lsf100%  
+	    New File  		    1076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Localization\English\english.xml100%  
+	    New File  		    2372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Globals\WLD_Main_A\Characters\_merged.lsf100%  
+	    New File  		   11680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\2dd12288-c71c-7db2-925c-2f884c1727bc-EQ_Karlach_(Icon_Origin_Karlach).DDS100%  
+	    New File  		   11680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\39d59978-8a65-a8ec-6e8b-0d391f4035e3-EQ_Karlach_(Icon_Origin_Karlach).DDS100%  
+	    New File  		   11680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\ce24301b-f705-ab7d-4354-d51ab93c5ae3-EQ_Karlach_(Icon_Origin_Karlach).DDS100%  
+	    New File  		    5332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\AssetsLowRes\ControllerUIIcons\items_png\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS100%  
+	    New File  		   37012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\AssetsLowRes\Tooltips\ItemIcons\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS100%  
+	    New File  		   20884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\ControllerUIIcons\items_png\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS100%  
+	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Tooltips\ItemIcons\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        18        18         1         0         0         0
+   Files :        12        12         0         0         0         0
+   Bytes :  1002.4 k  1002.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           171083166 Bytes/sec.
+   Speed :            9789.457 MegaBytes/min.
+   Ended : Wednesday, December 17, 2025 2:40:59 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 12 
+[DEBUG] Successfully copied files: 12 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 
+      Total files: 12 
+      Copied successfully: 12 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 to Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[DEBUG] Using destination: Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, December 17, 2025 2:41:01 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
+     Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    1555	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\KAD_Head_Atlas.lsx100%  
+	    New File  		    2654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Origins\Origins.lsx100%  
+	    New File  		  662784	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Head_KRL_A.GR2100%  
+	    New File  		  687804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Head_KRL_A2.GR2100%  
+	    New File  		  397836	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Head_KRL_Top_MC.GR2100%  
+	    New File  		  141476	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Tail_B_opener.GR2100%  
+	    New File  		    2293	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\3ab0a797-0904-47cb-955d-cdc3ec32409c.lsf100%  
+	    New File  		    2259	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\3c3bedb4-917a-4663-9a8a-d18611aaac95.lsf100%  
+	    New File  		    1566	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\6dbbfc31-a18f-472f-bda8-a18fdba17d02.lsf100%  
+	    New File  		    1690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\784843e5-e89a-4ffb-a556-417ba2018287.lsf100%  
+	    New File  		    2286	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\9d668ec3-f2a2-4b28-a63c-b19b2fff6350.lsf100%  
+	    New File  		   14194	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_CharacterVisuals\2dd12288-c71c-7db2-925c-2f884c1727bc.lsf100%  
+	    New File  		   15494	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_CharacterVisuals\39d59978-8a65-a8ec-6e8b-0d391f4035e3.lsf100%  
+	    New File  		   13573	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_CharacterVisuals\5757770a-12aa-a3f6-35dd-39beeaf5489d.lsf100%  
+	    New File  		   14267	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_CharacterVisuals\7abb8ab4-2f85-8785-2762-ff11afc6f372.lsf100%  
+	    New File  		   16648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_CharacterVisuals\ce24301b-f705-ab7d-4354-d51ab93c5ae3.lsf100%  
+	    New File  		   15005	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\09d6ff3b-b895-c3d1-5aad-df90e1394d6b.lsf100%  
+	    New File  		   10510	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\1a35eba5-38b1-f642-51f2-b32bb35ae02d.lsf100%  
+	    New File  		   13632	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\2c03253f-8890-7135-b08a-45e0f338b86c.lsf100%  
+	    New File  		    7820	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\39eaaf7a-2d18-4999-87f0-7f403db385ad.lsf100%  
+	    New File  		    2357	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\4a25e55f-351f-6b80-6875-8822bcaaf3e9.lsf100%  
+	    New File  		    1559	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\54eeef87-2165-4077-b59b-b30bd397c02e.lsf100%  
+	    New File  		    1579	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\78ff2509-2c7f-8079-1a4c-e1b67f964015.lsf100%  
+	    New File  		   14024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\7fb1ff8e-d799-4411-4bb3-202bc8305719.lsf100%  
+	    New File  		   14013	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\903bf8d3-6182-3b83-d095-dcde90e83514.lsf100%  
+	    New File  		    3456	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\963f0ae0-6b5b-4a1b-8e00-34e2f587c73d.lsf100%  
+	    New File  		   12508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\a104b6c5-de69-6374-d546-c4f4f9088602.lsf100%  
+	    New File  		    6943	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\dcec63a1-62ff-3559-8c19-a32010d9edcf.lsf100%  
+	    New File  		   14013	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\e45419b6-048a-bf81-a415-a602c40889e8.lsf100%  
+	    New File  		    5993	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\eb4e83ec-c8d6-296b-1935-272e6c776fd1.lsf100%  
+	    New File  		   13006	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\[PAK]_Karlach_as_Dragonborn_EL\f7f58bfb-82d5-b4fb-e777-5b603b82bdca.lsf100%  
+	    New File  		     566	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\Albedo_Normal_Physical\116d16ddbb9a9f07d029cdd9d2f6b4b7.xml100%  
+	    New File  		   31680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Loot\Heads\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_Base.GR2100%  
+	    New File  		   22000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Textures\Icons\KAD_Head_Atlas.dds100%  
+	    New File  		   12524	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\Base\DGB_F_Karlach_Base.GR2100%  
+	    New File  		     160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\Base\DGB_F_Karlach_Base.xml100%  
+	    New File  		    2463	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Loot\[PAK]_Heads\2892cebd-4d1f-e9f0-8261-b7a98514b9f9.lsf100%  
+	    New File  		    4380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Loot\[PAK]_Heads\914a3631-94f1-7546-86ee-c2699def1390.lsf100%  
+	    New File  		    4449	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Loot\[PAK]_Heads\bd9a3e46-2cdb-7a2b-99c2-d546135c8bc0.lsf100%  
+	    New File  		  783860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Albedo.tif100%  
+	    New File  		     517	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Albedo.xml100%  
+	    New File  		  988836	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Normal.tif100%  
+	    New File  		     517	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Normal.xml100%  
+	    New File  		  725744	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Physical.tif100%  
+	    New File  		     519	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Physical.xml100%  
+	    New File  		  167460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Undead\Assets\Heads\NeckCut\DGB_F_NKD_Head_B_NeckCut_KAD.GR2100%  
+	    New File  		     171	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Undead\Assets\Heads\NeckCut\DGB_F_NKD_Head_B_NeckCut_KAD.xml100%  
+	    New File  		    2239	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\0585cd8b-6516-9940-2596-97a7c755bd97.lsf100%  
+	    New File  		    3296	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\999a8773-6bca-e107-1d64-6cee8aecc73c.lsf100%  
+	    New File  		    2606	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\a0fb7229-eb4f-ebd0-ba54-1950831c169e.lsf100%  
+	    New File  		   1.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A_Posed.GR2100%  
+	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A_Posed.xml100%  
+	    New File  		   58956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_CuddleKissStrong_Karlach_DGB_EL_1.GR2100%  
+	    New File  		   39376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_PassionateKissStrong_Karlach_DGB_EL_1.GR2100%  
+	    New File  		   70184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_SweetKissStrong_Karlach_DGB_EL_1.GR2100%  
+	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\_PROP_ANIM\_Anims\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A.GR2100%  
+	    New File  		     219	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\_PROP_ANIM\_Anims\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        60        60         1         0         0         0
+   Files :        57        57         0         0         0         0
+   Bytes :    7.24 m    7.24 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           151964920 Bytes/sec.
+   Speed :            8695.502 MegaBytes/min.
+   Ended : Wednesday, December 17, 2025 2:41:01 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 57 
+[DEBUG] Successfully copied files: 57 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 
+      Total files: 57 
+      Copied successfully: 57 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 to "Generated\Public"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[DEBUG] Using destination: Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, December 17, 2025 2:41:04 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
+     Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\5246ddd3-22f7-4ede-8b9e-d4c2fae54d7e.gts100%  
+	    New File  		   3.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\5246ddd3-22f7-4ede-8b9e-d4c2fae54d7e_116d16ddbb9a9f07d029cdd9d2f6b4b7.gtp100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\5246ddd3-22f7-4ede-8b9e-d4c2fae54d7e_mips.gtp100%  
+	    New File  		   4.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\Albedo_Normal_Physical\116d16ddbb9a9f07d029cdd9d2f6b4b7.gtex100%  
+	    New File  		   12524	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\Base\DGB_F_Karlach_Base.GR2100%  
+	    New File  		  167460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Undead\Assets\Heads\NeckCut\DGB_F_NKD_Head_B_NeckCut_KAD.GR2100%  
+	    New File  		   1.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A_Posed.GR2100%  
+	    New File  		   1.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\_PROP_ANIM\_Anims\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        24        24         1         0         0         0
+   Files :         8         8         0         0         0         0
+   Bytes :   11.71 m   11.71 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           722441411 Bytes/sec.
+   Speed :           41338.429 MegaBytes/min.
+   Ended : Wednesday, December 17, 2025 2:41:04 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 8 
+[DEBUG] Successfully copied files: 8 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 
+      Total files: 8 
+      Copied successfully: 8 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 12 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 57 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 8 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 80 
+[SUMMARY] Total files successfully copied: 160 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
