@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
-   Mon 12/29/2025  8:32:11.58 
+   Mon 12/29/2025 21:59:17.23 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -44,14 +44,8 @@ Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karla
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
  
 Files found: 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_CuddleKissStrong_Karlach_DGB_EL_1.GR2 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_PassionateKissStrong_Karlach_DGB_EL_1.GR2 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_SweetKissStrong_Karlach_DGB_EL_1.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Loot\Heads\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_Base.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Textures\Icons\KAD_Head_Atlas.dds 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\0585cd8b-6516-9940-2596-97a7c755bd97.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\999a8773-6bca-e107-1d64-6cee8aecc73c.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\a0fb7229-eb4f-ebd0-ba54-1950831c169e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Loot\[PAK]_Heads\2892cebd-4d1f-e9f0-8261-b7a98514b9f9.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Loot\[PAK]_Heads\914a3631-94f1-7546-86ee-c2699def1390.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Loot\[PAK]_Heads\bd9a3e46-2cdb-7a2b-99c2-d546135c8bc0.lsf 
@@ -101,7 +95,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\_PROP_ANIM\_Anims\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\_PROP_ANIM\_Anims\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\Albedo_Normal_Physical\116d16ddbb9a9f07d029cdd9d2f6b4b7.xml 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 57 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 51 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
  
@@ -116,7 +110,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\VirtualTextures\Albedo_Normal_Physical\116d16ddbb9a9f07d029cdd9d2f6b4b7.gtex 
 Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 8 
  
-[LOG] Total files found across all folders: 80 
+[LOG] Total files found across all folders: 74 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -132,7 +126,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, December 29, 2025 8:32:14 AM
+  Started : Monday, December 29, 2025 9:59:20 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
      Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
 
@@ -143,20 +137,20 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     703	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\meta.lsx100%  
-	    New File  		  763328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\thumbnail.PNG100%  
+	    New File  		   5.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\thumbnail.PNG  0%  100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         1         1         1         0         0         0
    Files :         2         2         0         0         0         0
-   Bytes :   746.1 k   746.1 k         0         0         0         0
+   Bytes :    5.00 m    5.00 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           764031000 Bytes/sec.
-   Speed :           43718.204 MegaBytes/min.
-   Ended : Monday, December 29, 2025 8:32:14 AM
+   Speed :           2625715500 Bytes/sec.
+   Speed :           150244.646 MegaBytes/min.
+   Ended : Monday, December 29, 2025 9:59:20 PM
 
  
 [DEBUG] Counting source files 
@@ -182,7 +176,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, December 29, 2025 8:32:16 AM
+  Started : Monday, December 29, 2025 9:59:21 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
      Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
 
@@ -201,7 +195,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :     2.8 k     2.8 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, December 29, 2025 8:32:16 AM
+   Ended : Monday, December 29, 2025 9:59:21 PM
 
  
 [DEBUG] Counting source files 
@@ -227,7 +221,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, December 29, 2025 8:32:17 AM
+  Started : Monday, December 29, 2025 9:59:23 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
      Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
 
@@ -237,11 +231,11 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   14801	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\meta.lsx100%  
-	    New File  		  763328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\mod_publish_logo.png 34%  100%  
+	    New File  		   15011	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\meta.lsx100%  
+	    New File  		   5.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\mod_publish_logo.png100%  
 	    New File  		    2106	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\metadata.lsf100%  
-	    New File  		    2372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Globals\WLD_Main_A\Characters\_merged.lsf100%  
 	    New File  		    1076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Localization\English\english.xml100%  
+	    New File  		    2372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Globals\WLD_Main_A\Characters\_merged.lsf100%  
 	    New File  		   11680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\2dd12288-c71c-7db2-925c-2f884c1727bc-EQ_Karlach_(Icon_Origin_Karlach).DDS100%  
 	    New File  		   11680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\39d59978-8a65-a8ec-6e8b-0d391f4035e3-EQ_Karlach_(Icon_Origin_Karlach).DDS100%  
 	    New File  		   11680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\ce24301b-f705-ab7d-4354-d51ab93c5ae3-EQ_Karlach_(Icon_Origin_Karlach).DDS100%  
@@ -255,13 +249,13 @@ SECTION 2: COPY OPERATIONS
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        18        18         1         0         0         0
    Files :        12        12         0         0         0         0
-   Bytes :  1002.4 k  1002.4 k         0         0         0         0
+   Bytes :    5.25 m    5.25 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            57027722 Bytes/sec.
-   Speed :            3263.152 MegaBytes/min.
-   Ended : Monday, December 29, 2025 8:32:17 AM
+   Speed :           787729857 Bytes/sec.
+   Speed :           45074.263 MegaBytes/min.
+   Ended : Monday, December 29, 2025 9:59:23 PM
 
  
 [DEBUG] Counting source files 
@@ -287,7 +281,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, December 29, 2025 8:32:19 AM
+  Started : Monday, December 29, 2025 9:59:25 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
      Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
 
@@ -344,14 +338,8 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     519	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Companion\Karlach_DGB\VT\VirtualTextures\SHARED_DGB_NKD_Mouth_Interior_A_KAD_Dead_Physical.xml100%  
 	    New File  		  167460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Undead\Assets\Heads\NeckCut\DGB_F_NKD_Head_B_NeckCut_KAD.GR2100%  
 	    New File  		     171	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\DGB_Undead\Assets\Heads\NeckCut\DGB_F_NKD_Head_B_NeckCut_KAD.xml100%  
-	    New File  		    2239	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\0585cd8b-6516-9940-2596-97a7c755bd97.lsf100%  
-	    New File  		    3296	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\999a8773-6bca-e107-1d64-6cee8aecc73c.lsf100%  
-	    New File  		    2606	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Content\Assets\Characters\Tieflings\[PAK]_FemaleStrong_Cine\a0fb7229-eb4f-ebd0-ba54-1950831c169e.lsf100%  
 	    New File  		   1.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A_Posed.GR2100%  
 	    New File  		     207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A_Posed.xml100%  
-	    New File  		   58956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_CuddleKissStrong_Karlach_DGB_EL_1.GR2100%  
-	    New File  		   39376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_PassionateKissStrong_Karlach_DGB_EL_1.GR2100%  
-	    New File  		   70184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Assets\Characters\_Anims\_Cinematic\Act03\CAMP\Karlach_InParty\TIF_FS_Rig_SCENE_Karlach_InParty_SweetKissStrong_Karlach_DGB_EL_1.GR2100%  
 	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\_PROP_ANIM\_Anims\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A.GR2100%  
 	    New File  		     219	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Shared\Assets\_PROP_ANIM\_Anims\Loot\Heads\Resources\LOOT_Heads_TieflingStrong_Karlach_DGB_KAD_A.xml100%  
 
@@ -359,22 +347,22 @@ SECTION 2: COPY OPERATIONS
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        60        60         1         0         0         0
-   Files :        57        57         0         0         0         0
-   Bytes :    7.24 m    7.24 m         0         0         0         0
+   Files :        51        51         0         0         0         0
+   Bytes :    7.07 m    7.07 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           292240230 Bytes/sec.
-   Speed :           16722.120 MegaBytes/min.
-   Ended : Monday, December 29, 2025 8:32:19 AM
+   Speed :           570891461 Bytes/sec.
+   Speed :           32666.671 MegaBytes/min.
+   Ended : Monday, December 29, 2025 9:59:25 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 57 
-[DEBUG] Successfully copied files: 57 
+[DEBUG] Total files counted: 51 
+[DEBUG] Successfully copied files: 51 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220: 
-      Total files: 57 
-      Copied successfully: 57 
+      Total files: 51 
+      Copied successfully: 51 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -392,7 +380,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, December 29, 2025 8:32:21 AM
+  Started : Monday, December 29, 2025 9:59:27 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
      Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
 
@@ -420,9 +408,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1754500571 Bytes/sec.
-   Speed :           100393.327 MegaBytes/min.
-   Ended : Monday, December 29, 2025 8:32:21 AM
+   Speed :           1364611555 Bytes/sec.
+   Speed :            78083.699 MegaBytes/min.
+   Ended : Monday, December 29, 2025 9:59:27 PM
 
  
 [DEBUG] Counting source files 
@@ -455,7 +443,7 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 57 
+[LOG] Files copied by xcopy: 51 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
@@ -464,8 +452,8 @@ SECTION 4: FINAL SUMMARY
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 80 
-[SUMMARY] Total files successfully copied: 160 
+[SUMMARY] Total files found: 74 
+[SUMMARY] Total files successfully copied: 148 
  
 [SUMMARY] All files were copied successfully 
  
