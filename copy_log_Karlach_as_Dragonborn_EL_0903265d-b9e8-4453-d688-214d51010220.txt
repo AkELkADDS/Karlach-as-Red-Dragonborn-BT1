@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220 
-   Wed 12/17/2025 14:40:40.25 
+   Mon 12/29/2025  8:32:11.58 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -132,7 +132,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, December 17, 2025 2:40:55 PM
+  Started : Monday, December 29, 2025 8:32:14 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
      Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
 
@@ -143,7 +143,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     703	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\meta.lsx100%  
-	    New File  		  763328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\thumbnail.PNG  0%  100%  
+	    New File  		  763328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\thumbnail.PNG100%  
 
 ------------------------------------------------------------------------------
 
@@ -154,9 +154,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            69457363 Bytes/sec.
-   Speed :            3974.382 MegaBytes/min.
-   Ended : Wednesday, December 17, 2025 2:40:55 PM
+   Speed :           764031000 Bytes/sec.
+   Speed :           43718.204 MegaBytes/min.
+   Ended : Monday, December 29, 2025 8:32:14 AM
 
  
 [DEBUG] Counting source files 
@@ -182,7 +182,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, December 17, 2025 2:40:57 PM
+  Started : Monday, December 29, 2025 8:32:16 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
      Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Editor\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
 
@@ -201,7 +201,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :     2.8 k     2.8 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Wednesday, December 17, 2025 2:40:57 PM
+   Ended : Monday, December 29, 2025 8:32:16 AM
 
  
 [DEBUG] Counting source files 
@@ -227,7 +227,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, December 17, 2025 2:40:59 PM
+  Started : Monday, December 29, 2025 8:32:17 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
      Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
 
@@ -238,17 +238,17 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   14801	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\meta.lsx100%  
-	    New File  		  763328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\mod_publish_logo.png  0%  100%  
+	    New File  		  763328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\mod_publish_logo.png 34%  100%  
 	    New File  		    2106	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\metadata.lsf100%  
-	    New File  		    1076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Localization\English\english.xml100%  
 	    New File  		    2372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Globals\WLD_Main_A\Characters\_merged.lsf100%  
+	    New File  		    1076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Localization\English\english.xml100%  
 	    New File  		   11680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\2dd12288-c71c-7db2-925c-2f884c1727bc-EQ_Karlach_(Icon_Origin_Karlach).DDS100%  
 	    New File  		   11680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\39d59978-8a65-a8ec-6e8b-0d391f4035e3-EQ_Karlach_(Icon_Origin_Karlach).DDS100%  
 	    New File  		   11680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Portraits\ce24301b-f705-ab7d-4354-d51ab93c5ae3-EQ_Karlach_(Icon_Origin_Karlach).DDS100%  
-	    New File  		    5332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\AssetsLowRes\ControllerUIIcons\items_png\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS100%  
-	    New File  		   37012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\AssetsLowRes\Tooltips\ItemIcons\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS100%  
 	    New File  		   20884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\ControllerUIIcons\items_png\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS100%  
 	    New File  		  144548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\Assets\Tooltips\ItemIcons\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS100%  
+	    New File  		    5332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\AssetsLowRes\ControllerUIIcons\items_png\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS100%  
+	    New File  		   37012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\AssetsLowRes\Tooltips\ItemIcons\Item_LOOT_Heads_TieflingStrong_Karlach_KAD.DDS100%  
 
 ------------------------------------------------------------------------------
 
@@ -259,9 +259,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           171083166 Bytes/sec.
-   Speed :            9789.457 MegaBytes/min.
-   Ended : Wednesday, December 17, 2025 2:40:59 PM
+   Speed :            57027722 Bytes/sec.
+   Speed :            3263.152 MegaBytes/min.
+   Ended : Monday, December 29, 2025 8:32:17 AM
 
  
 [DEBUG] Counting source files 
@@ -287,7 +287,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, December 17, 2025 2:41:01 PM
+  Started : Monday, December 29, 2025 8:32:19 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
      Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
 
@@ -298,11 +298,11 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    1555	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\GUI\KAD_Head_Atlas.lsx100%  
-	    New File  		    2654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Origins\Origins.lsx100%  
 	    New File  		  662784	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Head_KRL_A.GR2100%  
 	    New File  		  687804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Head_KRL_A2.GR2100%  
 	    New File  		  397836	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Head_KRL_Top_MC.GR2100%  
 	    New File  		  141476	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Karlach_DGB\DGB_F_NKD_Tail_B_opener.GR2100%  
+	    New File  		    2654	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Origins\Origins.lsx100%  
 	    New File  		    2293	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\3ab0a797-0904-47cb-955d-cdc3ec32409c.lsf100%  
 	    New File  		    2259	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\3c3bedb4-917a-4663-9a8a-d18611aaac95.lsf100%  
 	    New File  		    1566	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\RootTemplates\6dbbfc31-a18f-472f-bda8-a18fdba17d02.lsf100%  
@@ -364,9 +364,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           151964920 Bytes/sec.
-   Speed :            8695.502 MegaBytes/min.
-   Ended : Wednesday, December 17, 2025 2:41:01 PM
+   Speed :           292240230 Bytes/sec.
+   Speed :           16722.120 MegaBytes/min.
+   Ended : Monday, December 29, 2025 8:32:19 AM
 
  
 [DEBUG] Counting source files 
@@ -392,7 +392,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, December 17, 2025 2:41:04 PM
+  Started : Monday, December 29, 2025 8:32:21 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
      Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\Generated\Public\Karlach_as_Dragonborn_EL_0903265d-b9e8-4453-d688-214d51010220\
 
@@ -420,9 +420,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           722441411 Bytes/sec.
-   Speed :           41338.429 MegaBytes/min.
-   Ended : Wednesday, December 17, 2025 2:41:04 PM
+   Speed :           1754500571 Bytes/sec.
+   Speed :           100393.327 MegaBytes/min.
+   Ended : Monday, December 29, 2025 8:32:21 AM
 
  
 [DEBUG] Counting source files 
